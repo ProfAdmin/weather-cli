@@ -1,5 +1,5 @@
 {
-  "name": "weather-cli",
+  "name": "weather-cli-andrew_dev",
   "version": "1.0.0",
   "description": "CLI for getting weather",
   "main": "weather.js",
@@ -20,10 +20,11 @@
   "homepage": "https://ideveloper.biz",
   "repository": {
     "type": "git",
-    "url": "https://ideveloper.biz"
+    "url": "https://github.com/ProfAdmin/weather-cli.git"
   },
   "bugs": {
-    "url": "https://ideveloper.biz"
+    "url": "https://ideveloper.biz",
+    "email": "bugs@ideveloper.biz"
   },
   "dependencies": {
     "axios": "^1.1.3",
